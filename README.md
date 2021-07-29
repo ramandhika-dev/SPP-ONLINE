@@ -1,2 +1,3 @@
 # spp-online
-Katanya sih gitu
+File berbentuk ZIP
+jadi harud di extrack terlebih dahulu yaa...
