@@ -1,3 +1,2 @@
-# spp-online
-File berbentuk ZIP
-jadi harus di extrack terlebih dahulu yaa...
+# SPP-ONLINE | BETA-VERSION
+- Belum 100% FIX Fiturnya 😁
